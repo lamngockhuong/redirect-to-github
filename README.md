@@ -1,2 +1,2 @@
-# redirect-to-github
-Redirect to my github profile 
+# Redirect to Github
+My Github profile: https://github.com/lamngockhuong/
